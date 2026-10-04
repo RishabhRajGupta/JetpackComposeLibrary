@@ -136,7 +136,6 @@ fun InstagramFeed(modifier: Modifier = Modifier) {
             }
         }
     }
-
 }
 
 
